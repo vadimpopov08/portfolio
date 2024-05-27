@@ -60,6 +60,7 @@ a {
 }
 
 .hero__container {
+    border-radius: 20px 20px 0px 0px;
     display: flex;
     flex-direction: row;
     background: linear-gradient(rgb(255, 255, 255) 0%, transparent 100%);
